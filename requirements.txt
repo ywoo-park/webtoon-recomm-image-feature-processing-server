@@ -1,0 +1,7 @@
+numpy
+requests
+flask
+tensorflow==2.0.0
+tensorflow_hub
+keras==2.3.1
+elasticsearch
